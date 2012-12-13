@@ -1,14 +1,16 @@
 //
-//  euler 2.h
+//  euler 1.h
 //  Euler Problems
 //
-//  Created by Brian on 5/12/12.
+//  Created by Brian on 13/12/12.
 //  Copyright (c) 2012 Brian. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
-#import "fibbonacci.c"
 
-@interface euler_2 : NSObject
+@interface euler_1 : NSObject
+
++ (NSInteger) euler1;
+
 
 @end

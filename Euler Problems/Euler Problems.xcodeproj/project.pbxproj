@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6CB2567C1679740200EBF678 /* euler 1.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CB2567B1679740200EBF678 /* euler 1.m */; };
 		6CD88099166F286800A020D7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CD88098166F286800A020D7 /* Foundation.framework */; };
 		6CD8809C166F286800A020D7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CD8809B166F286800A020D7 /* main.m */; };
 		6CD880A0166F286800A020D7 /* Euler_Problems.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6CD8809F166F286800A020D7 /* Euler_Problems.1 */; };
@@ -28,6 +29,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6CB2567A1679740200EBF678 /* euler 1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "euler 1.h"; sourceTree = "<group>"; };
+		6CB2567B1679740200EBF678 /* euler 1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "euler 1.m"; sourceTree = "<group>"; };
 		6CD88094166F286800A020D7 /* Euler Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Euler Problems"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CD88098166F286800A020D7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6CD8809B166F286800A020D7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -84,6 +87,8 @@
 				6CD880A6166F289000A020D7 /* euler 2.h */,
 				6CD880A7166F289000A020D7 /* euler 2.m */,
 				6CD880AA166F298400A020D7 /* fibbonacci.c */,
+				6CB2567A1679740200EBF678 /* euler 1.h */,
+				6CB2567B1679740200EBF678 /* euler 1.m */,
 			);
 			path = "Euler Problems";
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 				6CD8809C166F286800A020D7 /* main.m in Sources */,
 				6CD880A8166F289000A020D7 /* euler 2.m in Sources */,
 				6CD880AB166F298400A020D7 /* fibbonacci.c in Sources */,
+				6CB2567C1679740200EBF678 /* euler 1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +252,7 @@
 				6CD880A5166F286800A020D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

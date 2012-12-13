@@ -7,6 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "euler 1.h"
+#import "euler 2.h"
 
 int main(int argc, const char * argv[])
 {
