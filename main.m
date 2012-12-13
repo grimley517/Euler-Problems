@@ -1,24 +1,14 @@
 //
 //  main.m
-//  Euler Problems
+//  Euler problems
 //
-//  Created by Brian on 5/12/12.
-//  Copyright (c) 2012 Brian. All rights reserved.
+//  Created by Brian on 13/12/12.
+//  Copyright (c) 2012 Brian Jones. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-#import "euler 1.h"
-#import "euler 2.h"
+#import <Cocoa/Cocoa.h>
 
-int main(int argc, const char * argv[])
+int main(int argc, char *argv[])
 {
-
-    @autoreleasepool {
-        
-        // insert code here...
-        NSLog(@"Hello, World!");
-        
-    }
-    return 0;
+    return NSApplicationMain(argc, (const char **)argv);
 }
-
