@@ -13,6 +13,13 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     // Insert code here to initialize your application
+    self.window
+}
+
+- (IBAction)buttonPressed:(id)sender
+{
+    int problem = (int) [sender title];
+    
 }
 
 @end
