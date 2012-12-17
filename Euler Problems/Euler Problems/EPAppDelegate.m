@@ -13,7 +13,7 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     // Insert code here to initialize your application
-    self.window
+    self.window.
 }
 
 - (IBAction)buttonPressed:(id)sender

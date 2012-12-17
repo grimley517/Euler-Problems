@@ -8,15 +8,11 @@
 
 #import "EPViewController.h"
 
-@interface EPViewController ()
-
-@end
-
 @implementation EPViewController
 
-- (id)initWithNibName:(NSString *)resultView;
+- (id)initWithNibName:(NSString *)resultView
 {
-    self = [super initWithNibName: resultView ;
+    self = [super initWithNibName: @"resultView.xib"];
     if (self) {
         // Initialization code here.
     }

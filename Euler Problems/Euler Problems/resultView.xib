@@ -889,7 +889,6 @@
 							</object>
 							<reference ref="650495504"/>
 							<reference ref="541957749"/>
-							<reference ref="673106313"/>
 							<reference ref="978069907"/>
 							<reference ref="452591714"/>
 							<reference ref="691532780"/>
@@ -897,6 +896,7 @@
 							<reference ref="687869663"/>
 							<reference ref="65140711"/>
 							<reference ref="636139941"/>
+							<reference ref="673106313"/>
 						</array>
 						<reference key="parent" ref="1005"/>
 					</object>
@@ -1364,7 +1364,7 @@
 			<nil key="activeLocalization"/>
 			<dictionary class="NSMutableDictionary" key="localizations"/>
 			<nil key="sourceID"/>
-			<int key="maxID">100</int>
+			<int key="maxID">102</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<array class="NSMutableArray" key="referencedPartialClassDescriptions">

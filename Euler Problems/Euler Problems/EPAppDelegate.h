@@ -13,6 +13,8 @@
 @interface EPAppDelegate : NSObject <NSApplicationDelegate>
 
 @property (assign) IBOutlet NSWindow *window;
+@property (assign) IBOutlet NSWindow *resultWindow;
+
 
 
 - (IBAction)buttonPressed:(id)sender;
