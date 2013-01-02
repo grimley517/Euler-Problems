@@ -21,6 +21,7 @@
 		6CC789E9167ADCD7009BD446 /* resultView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CC789E8167ADCD7009BD446 /* resultView.xib */; };
 		6CC789F4167B0756009BD446 /* EPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CC789F3167B0756009BD446 /* EPViewController.m */; };
 		6CDFF6E5167EFF95002F9E77 /* EPMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CDFF6E4167EFF95002F9E77 /* EPMainViewController.m */; };
+		6CF600A8169062C600F052EC /* EPSolution.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF600A7169062C600F052EC /* EPSolution.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,8 @@
 		6CC789F3167B0756009BD446 /* EPViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EPViewController.m; path = "Euler Problems/EPViewController.m"; sourceTree = SOURCE_ROOT; };
 		6CDFF6E3167EFF95002F9E77 /* EPMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EPMainViewController.h; path = "Euler Problems/EPMainViewController.h"; sourceTree = SOURCE_ROOT; };
 		6CDFF6E4167EFF95002F9E77 /* EPMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EPMainViewController.m; path = "Euler Problems/EPMainViewController.m"; sourceTree = SOURCE_ROOT; };
+		6CF600A6169062C600F052EC /* EPSolution.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EPSolution.h; path = "Euler Problems/EPSolution.h"; sourceTree = SOURCE_ROOT; };
+		6CF600A7169062C600F052EC /* EPSolution.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EPSolution.m; path = "Euler Problems/EPSolution.m"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +139,8 @@
 				6CC789F3167B0756009BD446 /* EPViewController.m */,
 				6CDFF6E3167EFF95002F9E77 /* EPMainViewController.h */,
 				6CDFF6E4167EFF95002F9E77 /* EPMainViewController.m */,
+				6CF600A6169062C600F052EC /* EPSolution.h */,
+				6CF600A7169062C600F052EC /* EPSolution.m */,
 			);
 			path = "Euler problems";
 			sourceTree = "<group>";
@@ -286,6 +291,7 @@
 				6C72AD8D1679857600D73965 /* EPEuler1.m in Sources */,
 				6CC789F4167B0756009BD446 /* EPViewController.m in Sources */,
 				6CDFF6E5167EFF95002F9E77 /* EPMainViewController.m in Sources */,
+				6CF600A8169062C600F052EC /* EPSolution.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

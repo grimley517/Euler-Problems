@@ -11,4 +11,7 @@
 @interface EPEuler1 : NSObject
 + (NSInteger) Calculate ;
 
+
+
+
 @end
