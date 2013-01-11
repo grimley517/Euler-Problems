@@ -1,8 +1,0 @@
-//
-// Prefix header for all source files of the 'Euler problems' target in the 'Euler problems' project
-//
-
-#ifdef __OBJC__
-    #import <Cocoa/Cocoa.h>
-
-#endif
