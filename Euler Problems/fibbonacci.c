@@ -11,7 +11,7 @@
 int main(int number){
    return fibbo (number)
 }
-in fibbo (int number){
+int fibbo (int number){
     if (number == 1) {
         return 1;
     }
